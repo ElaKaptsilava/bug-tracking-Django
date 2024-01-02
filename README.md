@@ -7,7 +7,7 @@
 ## General info
 <details>
 <summary>Click here to see general information about <b>Project</b>!</summary>
-<b>Bug tracking</b>. This project is a web application for tracking and managing bugs in software projects. It is built with Django, a high-level Python web framework that encourages rapid development and clean design. The project follows the Model-View-Template (MVT) pattern.  The models define the data structures and logic of the application, the views handle the requests and responses, and the templates render the HTML pages. The project also uses Bootstrap, a popular front-end framework, to make the user interface responsive and attractive.
+<b>Bug tracking</b>. This project is a web application for tracking and managing bugs in software projects. It is built with Django, a high-level Python web framework that encourages rapid development and clean design. The project follows the Model-View-Template (MVT) pattern.  The models define the data structures and logic of the application.
 </details>
 
 ## Features
